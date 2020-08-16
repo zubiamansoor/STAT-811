@@ -2,7 +2,7 @@
 Statistical Consulting
 
 
-File Name | Description | Comments
+File Name | Contents | Description 
 :--------------- | :------------------------ | :------------------------
 Simple Pseudoreplication | Presentation slides | It is a drawback in the design of experiments that renders statistical tests invalid. 
 More | More | More 
